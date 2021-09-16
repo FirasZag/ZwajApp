@@ -1,0 +1,21 @@
+.nav-link:hover,
+.nav-link:focus {
+  text-decoration: none;
+  color: pink !important;
+}
+.nav-item {
+  margin-left: 15px;
+}
+.nav-link {
+  color: white !important;
+}
+
+h5 {
+  margin: 15px 15px;
+}
+
+.btn-secondary:hover {
+  text-decoration: none;
+  color: black !important;
+  background: pink !important;
+}
